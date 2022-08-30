@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niknikhilSPF
 - 👀 I’m interested in SharePoint, SPFx, Angular Js, React  Js, Docker, Devops, C#
-- 🌱 I’m currently learning Docker, Machine Learning
+- 🌱 I’m currently learning Docker, Machine Learning, Kubernetes, Swagger
 - 💞️ I’m looking to collaborate on SPFx, Angular Js, C#
 - 📫 How to reach me niknikhil.anand@gmail.com
 
